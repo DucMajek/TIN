@@ -1,0 +1,33 @@
+ul {
+  list-style-type: square;
+  text-align: left;
+  list-style-position: outside;
+}
+
+h3{
+  text-align: left;
+}
+
+.BookReader{
+  width: 400px;
+  float:left;
+}
+
+.BorrowUser{
+  width: 300px;
+  overflow: hidden;
+}
+.container{
+  width: 500px;
+  
+}
+
+.account{
+    width: 400px;
+  
+}
+
+nav{ 
+  width: 800px;
+  
+}
