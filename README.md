@@ -1,4 +1,4 @@
-# Projekt TIN na PJATK
+# Projekt TIN
 
 Projekt został zrealizowany w ramach przedmiotu Technologie Internetu (TIN) na uczelni PJATK.
 
