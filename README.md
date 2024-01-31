@@ -14,6 +14,13 @@ Projekt został zrealizowany w ramach przedmiotu Technologie Internetu (TIN) na 
 1. Wejdź do katalogu serwera:
    ```bash
    cd server
+2.Zainstaluj niezbędne zależności:
+   ```bash
+   npm install
+
+3.Uruchom serwer za pomocą nodemon:
+   ```bash
+   nodemon index.js
 
   
 2. Po stronie klienta
