@@ -39,5 +39,3 @@ Użyte technologie:
 3. Uruchom aplikację klienta:
    ```bash
    npm start
-
-
