@@ -3,7 +3,7 @@
 Projekt został zrealizowany w ramach przedmiotu Technologie Internetu (TIN) na uczelni PJATK.
 Użyte technologie: 
 - MongoDB: <i class="fab fa-mongodb"></i>
-- React: <i class="fab fa-react"></i>
+- React: ![image](https://github.com/DucMajek/TIN/assets/97256581/cc33c719-49e1-4ea9-90f7-dadee7a1f484)
 - Node.js: <i class="fab fa-node"></i>
 - Express: <i class="fab fa-node-js"></i>
 
