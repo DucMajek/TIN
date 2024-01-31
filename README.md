@@ -1,6 +1,11 @@
 # Projekt TIN
 
 Projekt został zrealizowany w ramach przedmiotu Technologie Internetu (TIN) na uczelni PJATK.
+Użyte technologie: 
+- MongoDB: <i class="fab fa-mongodb"></i>
+- React: <i class="fab fa-react"></i>
+- Node.js: <i class="fab fa-node"></i>
+- Express: <i class="fab fa-node-js"></i>
 
 ## Opis Projektu
 
